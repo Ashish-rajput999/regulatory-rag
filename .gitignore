@@ -1,0 +1,7 @@
+.env
+__pycache__
+.venv
+data/raw_pdfs/*.pdf
+*.pyc
+.DS_Store
+pageindex_lib/
