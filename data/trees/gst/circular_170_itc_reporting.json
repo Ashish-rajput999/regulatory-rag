@@ -1,0 +1,96 @@
+{
+  "document": "circular_170_itc_reporting",
+  "total_sections": 10,
+  "nodes": [
+    {
+      "node_id": "0001",
+      "title": "Subject: Mandatory furnishing of correct and proper information of inter-State supplies and amount of ineligible/blocked Input Tax Credit and reversal thereof in return in FORM GSTR-3B and statement in FORM GSTR-1 –reg.",
+      "page_start": 1,
+      "page_end": 1,
+      "summary": "Mandatory furnishing of correct and proper information of inter-State supplies and amount of ineligible/blocked Input Tax Credit and reversal thereof in return in FORM GSTR-3B and statement in FORM GSTR-1.",
+      "text": "The process of return filing has been simplified over a period of time. With effect under section 10 of the CGST Act (composition taxable persons) and to UIN holders , as required to be declared in Table 3.2 of FORM GSTR-3B, under the notion that the taxable value of the same along with tax payable has already been reported in Table 3 .1 of the said FORM.",
+      "nodes": []
+    },
+    {
+      "node_id": "0002",
+      "title": "3.2 In this context, it is pertinent to mention that the facility of static month-wise auto-drafted statement in FORM GSTR-2B for all registered persons has been introduced from August, 2020.",
+      "page_start": 2,
+      "page_end": 2,
+      "summary": "Introduction of static month-wise auto-drafted statement in FORM GSTR-2B.",
+      "text": "3.2 In this context, it is pertinent to mention that the facility of static month-wise auto-drafted statement in FORM GSTR-2B for all registered persons has been introduced from August, 2020.",
+      "nodes": []
+    },
+    {
+      "node_id": "0003",
+      "title": "4.2 It may be noted that the amount of Net ITC Available as per Table 4(C) of FORM GSTR-3B gets credited into the electronic credit ledger (ECL) of the registered person.",
+      "page_start": 3,
+      "page_end": 3,
+      "summary": "Net ITC Available gets credited into the electronic credit ledger (ECL) of the registered person.",
+      "text": "4.2 It may be noted that the amount of Net ITC Available as per Table 4(C) of FORM GSTR-3B gets credited into the electronic credit ledger (ECL) of the registered person.",
+      "nodes": []
+    },
+    {
+      "node_id": "0004",
+      "title": "Section 16 - Eligibility and conditions for taking input tax credit",
+      "page_start": 4,
+      "page_end": 6,
+      "summary": "Eligibility and conditions for taking input tax credit",
+      "text": "ITC not available, on account of limitation of time period as delineated in sub-section (4) of section 16 of the CGST Act or where the recipient of an intra -State supply is located in a different State / UT than that of place of supply",
+      "nodes": []
+    },
+    {
+      "node_id": "0005",
+      "title": "Section 17(5) - Ineligible ITC",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Ineligible ITC under section 17(5)",
+      "text": "As the details of ineligible ITC under section 17(5) are being provided in Table 4(B), no further details of such ineligible ITC will be required to be provided in Table 4(D)(1).",
+      "nodes": []
+    },
+    {
+      "node_id": "0006",
+      "title": "Section 4 - Calculation of Net ITC Available",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Calculation of net ITC available",
+      "text": "the net ITC Available will be calculated in Table 4 (C) which is as per the formula (4A - [4B (1) + 4B (2)] )",
+      "nodes": []
+    },
+    {
+      "node_id": "0007",
+      "title": "Reversal of ITC as per rule 42 and 43 of CGST Rules",
+      "page_start": 7,
+      "page_end": 7,
+      "summary": "Reversal of ITC as per rule 42 and 43 of CGST Rules",
+      "text": "1. Refer para 4.3 (B) of circular 2. Reversal of Rs. 75,500/- integrated tax, Rs. 52,000/- central tax and Rs. 52,000/- state tax under rule 42 and 43 [Note 2] 3. Ineligible ITC of Integrated tax of Rs. 50,000/- under section 17(5) [Note 1]",
+      "nodes": []
+    },
+    {
+      "node_id": "0008",
+      "title": "Others",
+      "page_start": 7,
+      "page_end": 7,
+      "summary": "Other reversal of ITC",
+      "text": "1. Refer para 4.3 (C) of circular 2. Reversal of integrated tax of Rs. 10,000/-, where supply is not received [Note 3] 3. Reversal of ITC of Rs 500/- central tax and Rs 500/- state tax on account of Rule 37 [Note 4]",
+      "nodes": []
+    },
+    {
+      "node_id": "0009",
+      "title": "Net ITC Available",
+      "page_start": 7,
+      "page_end": 7,
+      "summary": "Calculation of net ITC available",
+      "text": "C=A1+A2+A3+A4+A5-B1-B2",
+      "nodes": []
+    },
+    {
+      "node_id": "0010",
+      "title": "Ineligible ITC",
+      "page_start": 7,
+      "page_end": 7,
+      "summary": "Ineligible ITC",
+      "text": "1. As per section 17(5) - - - 1. Refer para 4.3 (E) of circular 2. Reversals und",
+      "nodes": []
+    }
+  ]
+}
