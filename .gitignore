@@ -1,7 +1,10 @@
 .env
 __pycache__
 .venv
-data/raw_pdfs/*.pdf
+venv/
+data/raw_pdfs/
+data/benchmark/
+logs/
 *.pyc
 .DS_Store
 pageindex_lib/
