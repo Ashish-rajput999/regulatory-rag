@@ -7,11 +7,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&family=JetBrains+Mono:wght@400;500&display=swap');
 
 /* ── Reset & Global ──────────────────────────────────────────────── */
-html, body, [class*="css"], .stApp {
-    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+html, body, .stApp {
     background-color: #FAFAF8 !important;
     color: #1C1917 !important;
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
 }
+
+
 
 /* ── Typography — headings use Playfair Display ──────────────────── */
 h1, h2, h3, h4, h5, h6,
@@ -43,12 +45,11 @@ h1, h2, h3, h4, h5, h6,
 
 /* All sidebar text */
 [data-testid="stSidebar"] p,
-[data-testid="stSidebar"] span,
+[data-testid="stSidebar"] span:not(.material-symbols-rounded):not(.material-icons):not(.stIcon),
 [data-testid="stSidebar"] label,
 [data-testid="stSidebar"] div,
 [data-testid="stSidebar"] small {
     color: #E8E8F0 !important;
-    font-family: 'DM Sans', sans-serif !important;
 }
 
 /* Sidebar headings */
