@@ -171,8 +171,8 @@ with st.sidebar:
     <div style="margin-top:40px;padding-top:18px;
                 border-top:1px solid rgba(232,232,240,0.1);">
       <div style="font-family:'DM Sans',sans-serif;font-size:0.78rem;
-                  color:#5A5A78;margin-bottom:4px;">Built by Pushkar Sharma</div>
-      <a href="https://github.com/pushkar462" target="_blank"
+                  color:#5A5A78;margin-bottom:4px;">Built by ashish singh naruka</div>
+      <a href="https://github.com/Ashish-rajput999" target="_blank"
          style="font-family:'DM Sans',sans-serif;font-size:0.78rem;
                 color:#C84B00;text-decoration:none;letter-spacing:0.01em;">
         GitHub &rarr;
