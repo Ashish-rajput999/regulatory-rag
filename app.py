@@ -82,15 +82,21 @@ with st.sidebar:
         unsafe_allow_html=True
     )
 
-    api_key_from_env = os.environ.get("GROQ_API_KEY", "")
+    try:
+        api_key_from_env = st.secrets.get("GROQ_API_KEY", os.environ.get("GROQ_API_KEY", ""))
+    except Exception:
+        api_key_from_env = os.environ.get("GROQ_API_KEY", "")
+
     is_valid_env_key = bool(
         api_key_from_env and
         not api_key_from_env.startswith("your_groq_api_key_here")
     )
 
     if is_valid_env_key:
+        # Also ensure os.environ is updated if it came from secrets
+        os.environ["GROQ_API_KEY"] = api_key_from_env
         st.markdown(
-            '<div class="api-badge success">&#9679;&nbsp; Groq key active from .env</div>',
+            '<div class="api-badge success">&#9679;&nbsp; Groq key active (Secrets/Env)</div>',
             unsafe_allow_html=True
         )
         has_api_key = True
