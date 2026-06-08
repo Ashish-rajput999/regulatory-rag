@@ -171,7 +171,7 @@ with st.sidebar:
     <div style="margin-top:40px;padding-top:18px;
                 border-top:1px solid rgba(232,232,240,0.1);">
       <div style="font-family:'DM Sans',sans-serif;font-size:0.78rem;
-                  color:#5A5A78;margin-bottom:4px;">Built by ashish singh naruka</div>
+                  color:#5A5A78;margin-bottom:4px;">Built by Ashish</div>
       <a href="https://github.com/Ashish-rajput999" target="_blank"
          style="font-family:'DM Sans',sans-serif;font-size:0.78rem;
                 color:#C84B00;text-decoration:none;letter-spacing:0.01em;">
