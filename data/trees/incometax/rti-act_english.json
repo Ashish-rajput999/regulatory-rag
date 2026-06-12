@@ -1,0 +1,321 @@
+{
+  "document": "rti-act_english",
+  "total_sections": 35,
+  "nodes": [
+    {
+      "node_id": "0001",
+      "title": "PREFACE",
+      "page_start": 3,
+      "page_end": 3,
+      "summary": "This edition of the Right to Information Act, 2005 is being published in diglot form.",
+      "text": "This edition of the Right to Information Act, 2005 is being published in diglot form. The English text and the authoritative Hindi text of the Act have been modified up (lithe 1st day of February, 2011.",
+      "nodes": []
+    },
+    {
+      "node_id": "0002",
+      "title": "CHAPTER I - PRELIMINARY",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Preliminary sections of the Right to Information Act, 2005",
+      "text": "1.Short title, extent and commencement. 2. Definitions.",
+      "nodes": []
+    },
+    {
+      "node_id": "0003",
+      "title": "CHAPTER II - RIGHT TO INFORMATION AND OBLIGATIONS OF PUBLIC AUTHORITIES",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Right to information and obligations of public authorities",
+      "text": "3. Right to information. 4. Obligations of public authorities. 5. Designation of Public Information Officers.",
+      "nodes": []
+    },
+    {
+      "node_id": "0004",
+      "title": "CHAPTER III - THE CENTRAL INFORMATION COMMISSION",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Constitution of Central Information Commission",
+      "text": "12.Constitution of Central Information Commission. 13.Term of office and conditions of service.",
+      "nodes": []
+    },
+    {
+      "node_id": "0005",
+      "title": "CHAPTER IV - THE STATE INFORMATION COMMISSION",
+      "page_start": 4,
+      "page_end": 4,
+      "summary": "Constitution of State Information Commission",
+      "text": "14.Removal of' Chicf Infiommtion Commissioner or Information Commissioner.",
+      "nodes": []
+    },
+    {
+      "node_id": "0006",
+      "title": "CHAPTER V - POWERS AND FUNCTIONS OF THE INFORMATION COMMISSIONS, APPEAL AND PENALTIES",
+      "page_start": 5,
+      "page_end": 5,
+      "summary": "Powers and functions of Information Commissions, appeal and penalties",
+      "text": "18.Powers and functions of Information Commissions. 19.Appeal. 20. Penalties.",
+      "nodes": []
+    },
+    {
+      "node_id": "0007",
+      "title": "CHAPTER VI - MISCELLANEOUS",
+      "page_start": 5,
+      "page_end": 6,
+      "summary": "Miscellaneous provisions of the Right to Information Act, 2005",
+      "text": "21. Pmtection of action taken in good faith. 22. Act to have overriding effect.",
+      "nodes": []
+    },
+    {
+      "node_id": "0008",
+      "title": "CHAPTER VII - THE RIGHT TO INFORMATION ACT, 2005",
+      "page_start": 6,
+      "page_end": 6,
+      "summary": "Preamble and objectives of the Right to Information Act, 2005",
+      "text": "An Act to provide for setting out the practical regime of right to information for citizens to secure access to information under the control of public authorities,",
+      "nodes": []
+    },
+    {
+      "node_id": "0009",
+      "title": "Right to Information Act, 2005",
+      "page_start": 7,
+      "page_end": 9,
+      "summary": "Definitions of terms related to the Right to Information Act, 2005",
+      "text": "Definitions of terms related to the Right to Information Act, 2005 (Chapter I —Preliminary.) (c) \"Central Public Information Officer\" means the Central Public Information Officer designated under sub- section (I) and includes a Central Assistant Public Information Officer designated as such under sub-section (2) of section 5;",
+      "nodes": []
+    },
+    {
+      "node_id": "0010",
+      "title": "Right to Information Act, 2005",
+      "page_start": 8,
+      "page_end": 9,
+      "summary": "Definitions of terms related to the Right to Information Act, 2005",
+      "text": "Definitions of terms related to the Right to Information Act, 2005 (Chapter I—Preliminary. Chapter IL—Right to information and obligations of public authorities.) (I) -right to information\" means the right to information accessible under this Act which is held by or under the control of any public authority and includes the right to-",
+      "nodes": []
+    },
+    {
+      "node_id": "0011",
+      "title": "Right to Information Act, 2005",
+      "page_start": 9,
+      "page_end": 9,
+      "summary": "Obligations of public authorities",
+      "text": "Definitions of terms related to the Right to Information Act, 2005 (Chapter IL-Right to information and obligations of public authorities.) (viii) a statement of the boards, councils, committees and other bodies consisting of two or more persons constituted as its part or for the purpose of its advice, and as to whether meetings of those boards; councils, committees and other bodies are open to the public, or the minutes of such meetings are accessible for public;",
+      "nodes": []
+    },
+    {
+      "node_id": "0012",
+      "title": "Right to Information Act, 2005",
+      "page_start": 10,
+      "page_end": 12,
+      "summary": "The Right to Information Act, 2005 outlines the obligations of public authorities and the process for requesting information.",
+      "text": "Right to Information Act, 2005 (Chapter II —Right to information and obligations of public authorities.) Without prejudice to the provisions of sub-section (/), every public authority shall designate an officer, within one hundred days of the enactment of this Act, at each sub-divisional level or other sub-district level as a Central Assistant Public Information Officer or a State Assistant Public Information Officer, as the case may be, to receive the applications for infbrmation or appeals under this Act for forwarding the same forthwith to the Central Public Information Officer or the State Public Information Officer or senior officer specified under sub-section (/) of section 19 or the Central Information Commission or the State Information Commission, as the case may be:",
+      "nodes": []
+    },
+    {
+      "node_id": "0013",
+      "title": "Disposal of request",
+      "page_start": 11,
+      "page_end": 12,
+      "summary": "The Central Public Information Officer or State Public Information Officer shall dispose of a request for information within 30 days.",
+      "text": "Disposal of request.—(/) Subject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request under section 6 shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request.",
+      "nodes": []
+    },
+    {
+      "node_id": "0014",
+      "title": "Exemption from disclosure of information",
+      "page_start": 12,
+      "page_end": 12,
+      "summary": "Certain information may be exempt from disclosure, including information that would prejudicially affect the sovereignty and integrity of India.",
+      "text": "Exemption from disclosure of information. — (/) Notwithstanding anything contained in this Act, there shall be no obligation to give any citizen,— (a) information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence;",
+      "nodes": []
+    },
+    {
+      "node_id": "0015",
+      "title": "Right to Information Act, 2005",
+      "page_start": 13,
+      "page_end": 15,
+      "summary": "The Right to Information Act, 2005 provides for the right to information and obligations of public authorities.",
+      "text": "Right to Information Act, 2005 (Chapter II—Right to information and obligations of public authorities.) Provided that where any question arises as to the date from which the said period of twenty years has to be computed, the decision of the Central Government shall be final, subject to the usual appeals provided for in this Act.",
+      "nodes": []
+    },
+    {
+      "node_id": "0016",
+      "title": "Grounds for rejection to access in certain cases",
+      "page_start": 13,
+      "page_end": 14,
+      "summary": "A Central Public Information Officer or a State Public Information Officer may reject a request for information where it would involve an infringement of copyright.",
+      "text": "Without prejudice to the provisions of section 8, a Central Public Information Officer or a State Public Information Officer, as the case may be, may reject a request for information where such a request for providing access would involve an infringement of copyright subsisting in a person other than the State.",
+      "nodes": []
+    },
+    {
+      "node_id": "0017",
+      "title": "Severability",
+      "page_start": 14,
+      "page_end": 14,
+      "summary": "A request for access to information may be rejected on certain grounds.",
+      "text": "Where a request for access to information is rejected on the ground that",
+      "nodes": []
+    },
+    {
+      "node_id": "0018",
+      "title": "CHAPTER III - The Central Information Commission",
+      "page_start": 14,
+      "page_end": 15,
+      "summary": "The Central Information Commission is a body that exercises the powers and performs the functions assigned to it under the Act.",
+      "text": "CHAPTER III THE CENTRAL INFORMATION COMMISSION 12. Constitution of Central Information Commission.—(/) The Central Government shall, by notification in the Official Gazette. constitute a body to be known as the Central Information Commission to exercise the powers conferred on, and to perform the functions assigned to, it under this Act.",
+      "nodes": []
+    },
+    {
+      "node_id": "0019",
+      "title": "The Central Information Commission",
+      "page_start": 15,
+      "page_end": 15,
+      "summary": "The Central Information Commission consists of the Chief Information Commissioner and Information Commissioners.",
+      "text": "The Central Information Commission shall consist of— (a) the Chief Information Commissioner; and (b) such number of Central Information Commissioners, not exceeding ten, as may be deemed necessary.",
+      "nodes": []
+    },
+    {
+      "node_id": "0020",
+      "title": "Right to Information Act, 2005",
+      "page_start": 16,
+      "page_end": 18,
+      "summary": "Eligibility and conditions for Chief Information Commissioner and Information Commissioner",
+      "text": "11 Right to Information Act, 2005 (Chapter III—The Central Information Commission. Chapter IV—The State Information Commission.) (b) has been convicted of an offence which, in the opinion of the President, involves moral turpitude; or (c) engages during his term of office in any paid employment outside the duties of his office; or (d) is, in the opinion of the President, unfit to continue in office by reason of infirmity of mind or body; or (e) has acquired such financial or other interest as is likely to affect prejudicially his functions as the Chief Information Commissioner or a Information Commissioner.",
+      "nodes": []
+    },
+    {
+      "node_id": "0021",
+      "title": "Right to Information Act, 2005",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "State Information Commission headquarters and offices",
+      "text": "12 Right to Information Act, 2005 (Chapter IV—The State Information Commission.) (7) The headquarters of the State Information Commission shall be at such place in the State as the State Government may, by notification in the Official Gazette, specify and the State Information Commission may, with the previous approval of the State Government, establish offices at other places in the State.",
+      "nodes": []
+    },
+    {
+      "node_id": "0022",
+      "title": "Right to Information Act, 2005",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "Term of office and conditions of service for State Chief Information Commissioner",
+      "text": "16. Term of office and conditions of service.—(/) The State Chief Information Commissioner shall hold office for a term of five years from the date on which he enters upon his office and shall not be eligible for reappointment: Provided that no State Chief Information Commissioner shall hold office as such after he has attained the age of sixty-five years.",
+      "nodes": []
+    },
+    {
+      "node_id": "0023",
+      "title": "Right to Information Act, 2005",
+      "page_start": 17,
+      "page_end": 18,
+      "summary": "Removal of State Chief Information Commissioner or State Information Commissioner",
+      "text": "17. Removal of State Chief Information Commissioner or State Information Commissioner.—(/) Subject to the provisions of sub-section (3), the State Chief Information Commissioner or a State Information Commissioner shall not be removed from his office except in like manner and on the like grounds as a Judge of a High Court.",
+      "nodes": []
+    },
+    {
+      "node_id": "0024",
+      "title": "Right to Information Act, 2005",
+      "page_start": 18,
+      "page_end": 18,
+      "summary": "Powers and functions of the Information Commissions, appeal and penalties",
+      "text": "13 Right to Information Act, 2005 (Chapter IV-7'he State Information Commission. Chapter V—Powers andfunctions of the Information Commissions, appeal and penalties.) (6) The State Government shall provide the State Chief Information Commissioner and the State Information Commissioners with such officers and employees as may be necessary for the efficient performance of their functions under this Act,",
+      "nodes": []
+    },
+    {
+      "node_id": "0025",
+      "title": "Right to Information Act, 2005",
+      "page_start": 19,
+      "page_end": 21,
+      "summary": "Eligibility and conditions for taking input tax credit",
+      "text": "Right to Information Act, 2005 (Chapter V —Powers and )(unctions of the Information Commissions, appeal and penalties.)",
+      "nodes": []
+    },
+    {
+      "node_id": "0026",
+      "title": "Right to Information Act, 2005",
+      "page_start": 20,
+      "page_end": 21,
+      "summary": "Eligibility and conditions for taking input tax credit",
+      "text": "If the decision of the Central Public Information Officer or State Public Information Officer, as the case may be, against which an appeal is preferred relates to information of a third party, the Central Information Commission or State Information Commission, as the case may be, shall give a reasonable opportunity of being heard to that third party.",
+      "nodes": []
+    },
+    {
+      "node_id": "0027",
+      "title": "Right to Information Act, 2005",
+      "page_start": 21,
+      "page_end": 21,
+      "summary": "Eligibility and conditions for taking input tax credit",
+      "text": "Provided that the Central Public Information Officer or the State Public Information Officer, as the case may be, shall be given a reasonable opportunity of being heard before any penalty is imposed on him:",
+      "nodes": []
+    },
+    {
+      "node_id": "0028",
+      "title": "Right to Information Act, 2005",
+      "page_start": 22,
+      "page_end": 24,
+      "summary": "The Right to Information Act, 2005 provides for the right to information and the duties of public authorities.",
+      "text": "The Right to Information Act, 2005 (Chapter VI —Miscellaneous ) Provided further that in the case of information sought for is in respect of allegations of violation of human rights,",
+      "nodes": []
+    },
+    {
+      "node_id": "0029",
+      "title": "Monitoring and reporting.",
+      "page_start": 22,
+      "page_end": 22,
+      "summary": "The Central Information Commission or State Information Commission shall prepare a report on the implementation of the provisions of this Act.",
+      "text": "The Central Information Commission or State Information Commission, as the case may be, shall, as soon as practicable after the end of each year, prepare a report on the implementation of the provisions of this Act during that year",
+      "nodes": []
+    },
+    {
+      "node_id": "0030",
+      "title": "Right to Information Act, 2005",
+      "page_start": 23,
+      "page_end": 23,
+      "summary": "The Right to Information Act, 2005 provides for the right to information and the duties of public authorities.",
+      "text": "Right to Information Act, 2005 (Chapter VI—Miscellaneous.) (c) promote timely and effective dissemination of accurate information by public authorities about their activities;",
+      "nodes": []
+    },
+    {
+      "node_id": "0031",
+      "title": "Right to Information Act, 2005",
+      "page_start": 24,
+      "page_end": 24,
+      "summary": "The Right to Information Act, 2005 provides for the right to information and the duties of public authorities.",
+      "text": "Right to Information Act, 2005 (Chapter VI—Miscellaneous.) (e) the procedure to be adopted by the Central Information Commission or State Information Commission, as the case may be, in deciding the appeals under sub-section ( /0) of section 19;",
+      "nodes": []
+    },
+    {
+      "node_id": "0032",
+      "title": "Power to make rules by competent authority.",
+      "page_start": 24,
+      "page_end": 24,
+      "summary": "The competent authority may make rules to carry out the provisions of this Act.",
+      "text": "The competent authority may, by notification in the Official Gazette, make rules to carry out the provisions of this Act.",
+      "nodes": []
+    },
+    {
+      "node_id": "0033",
+      "title": "Right to Information Act, 2005",
+      "page_start": 25,
+      "page_end": 25,
+      "summary": "The First Schedule of the Right to Information Act, 2005",
+      "text": "Right to Information Act, 2005 (The First Schedule.) THE FIRST SCHEDULE [See sections 13 (3) and 16(3)]",
+      "nodes": []
+    },
+    {
+      "node_id": "0034",
+      "title": "The First Schedule",
+      "page_start": 25,
+      "page_end": 25,
+      "summary": "Form of oath or affirmation to be made by the Chief Information Commissioner",
+      "text": "FORM OF OATH OR AFFIRMATION TO BE MADE BY THE CHIEF INFORMATION COMMISSIONER/FHE INFORMATION COMMISSIONER/THE STATE CHIEF INFORMATION COMMISSIONER/THE STATE 1NFOFtMATION COMMISSIONER",
+      "nodes": []
+    },
+    {
+      "node_id": "0035",
+      "title": "The Second Schedule",
+      "page_start": 26,
+      "page_end": 26,
+      "summary": "Intelligence and Security Organisation established by the Central Government",
+      "text": "INTELLIGENCE AND SECURITY ORGANISATION ESTABLISHED BY THE CENTRAL GOVERNMENT",
+      "nodes": []
+    }
+  ]
+}
